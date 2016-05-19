@@ -11,6 +11,8 @@ This plugin differs from other WYSIWYG plugins in that they're all or nothing - 
 
 ## Usage
 
+Only Content entries ending in `.rich.htm` will be converted to a richeditor.
+
 * Create a CMS - Content with a filename `test.rich.htm`
 * Hit save
 * Close and re-open `test.rich.htm`
