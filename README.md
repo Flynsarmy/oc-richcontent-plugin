@@ -17,6 +17,8 @@ Only Content entries ending in `.rich.htm` will be converted to a richeditor.
 * Hit save
 * Close and re-open `test.rich.htm`
 
+![](https://raw.githubusercontent.com/Flynsarmy/oc-richcontent-plugin/master/assets/images/richcontent.jpg)
+
 ## Licence
 
 The Rich Content plugin is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT).
